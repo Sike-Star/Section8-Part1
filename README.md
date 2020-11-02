@@ -73,3 +73,12 @@ Whatever definition we may give of liberty, we should be careful to observe two 
 
 E 8.25, SBN 95-6
 It is universally allowed, that nothing exists without a cause of its existence, and that chance, when strictly examined, is a mere negative word, and means not any real power, which has any where, a being in nature. But it is pretended, that some causes are necessary, some not necessary. Here then is the advantage of definitions. Let any one define a cause, without comprehending, as a part of the definition, a necessary connexion with its effect; and let him shew distinctly the origin of the idea, expressed by the definition; and I shall readily give up the whole controversy. But if the foregoing explication of the matter be received, this must be absolutely impracticable. Had not objects a regular conjunction with each other, we should never have entertained any notion of cause and effect; and this regular conjunction produces that inference of the understanding, which is the only connexion, that we can have any comprehension of. Whoever attempts a definition of cause, exclusive of these circumstances, will be obliged, either to employ unintelligible terms, or such as are synonimous to the term, which he endeavours to define[19]. And if the definition above mentioned be admitted; liberty, when opposed to necessity, not to constraint, is the same thing with chance; which is universally allowed to have no existence.
+
+Definitions - 
+
+Doctrine of Liberty: 
+
+
+Doctrin of Necessity: 
+
+
