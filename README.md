@@ -132,8 +132,8 @@ It is universally allowed, that nothing exists without a cause of its existence,
 
 # Definitions - 
 
-## Doctrine of Liberty:_____ [BACK](https://github.com/Sike-Star/Section8-Part1###E 8.2, SBN 81)
-## Doctrine of Necessity: 
+## Doctrine of Liberty:_____ [BACK](https://github.com/Sike-Star/Section8-Part1#e-82-sbn-81)
+## Doctrine of Necessity:
 ## Constant Conjunction
 ## Necessary Connection
 ## Causation
