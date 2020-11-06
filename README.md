@@ -138,6 +138,4 @@ It is universally allowed, that nothing exists without a cause of its existence,
 ## Necessary Connection
 ## Causation
 
-[embed]file:///Users/medinewman/Library/Mobile%20Documents/com~apple~Keynote/Documents/argument%20map.pdf[/embed]
-
 
