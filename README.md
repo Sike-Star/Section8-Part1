@@ -141,6 +141,7 @@ Hume's Doctrine of Necessity is not one of absolute determinism. Instead, for hi
 
 ## Constant Conjunction
 ## Necessary Connection
+As we repeatedly experience constant conjunction between two events, the idea of one being brought about by the other arises in our minds. This certainty increases each time we experience the conjunction, until we reach the idea of the former necessitating the latter. We reach this idea of necessary connection through what Hume calls "customary transition". Hume appears to refer to necessary connection as a simple idea: "To be fully acquainted, therefore, with the idea of power or necessary connexion, let us examine its impression." (E62-3) (Simple ideas, according to Hume, arise from their corresponding simple impressions.) However, it is unclear that there is an obvious corresponding impression to necessary connection (other than that of constant conjunction. He refers to necessary connection elsewhere as "energy", "force", "power" etc.. These terms seem to avoid the idea of inexorability, while necessary connection does not. 
 ## Causation
 
 
