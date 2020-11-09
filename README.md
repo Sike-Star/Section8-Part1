@@ -147,10 +147,9 @@ As we repeatedly experience constant conjunction between two events, the idea of
  Editing
 ## Causation
 A concept formed by witnessing the constant conjunction of events, whereby we begin to relate one event as the cause of another, based on our repeated past experience. We use this faculty in order to make predictions about events that we have witnessed in the world. Hume narrows his definition of causation to allow it to fit with his definition of necessary connection. [BACK](https://github.com/Sike-Star/Section8-Part1#e-85-sbn-82)
-=======
-## References
 
-> Hume, David, An Enquiry Concerning Human Understanding, Section 8.1 (1748, 1777)
-> Beebee, H., Hume on Causation (London: Routledge, 2006)
-> Stroud, B., Hume (London: Routledge & Kegan Paul, 1977)
-> Harris, J.A., Of Liberty and Necessity (2014)
+# References
+Hume, David, An Enquiry Concerning Human Understanding, Section 8.1 (1748, 1777)
+Beebee, H., Hume on Causation (London: Routledge, 2006)
+Stroud, B., Hume (London: Routledge & Kegan Paul, 1977)
+Harris, J.A., Of Liberty and Necessity (2014)
