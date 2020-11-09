@@ -144,8 +144,8 @@ As we repeatedly experience constant conjunction between two events, the idea of
 
 ## References
 
->Hume, David, An Enquiry Concerning Human Understanding, Section 8.1 (1748, 1777)
->Beebee, H., Hume on Causation (London: Routledge, 2006)
->Stroud, B., Hume (London: Routledge & Kegan Paul, 1977)
->Harris, J.A., Of Liberty and Necessity (2014)
+> Hume, David, An Enquiry Concerning Human Understanding, Section 8.1 (1748, 1777)
+> Beebee, H., Hume on Causation (London: Routledge, 2006)
+> Stroud, B., Hume (London: Routledge & Kegan Paul, 1977)
+> Harris, J.A., Of Liberty and Necessity (2014)
 
